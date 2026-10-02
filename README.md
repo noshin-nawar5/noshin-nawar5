@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="300" alt="Noshin Nawar, rendered as a dot matrix">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+  <img src="assets/portrait-dark.svg" width="300" alt="Noshin Nawar, rendered as a dot matrix">
+</picture>
 
 <br>
 

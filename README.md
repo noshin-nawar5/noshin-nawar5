@@ -2,7 +2,7 @@
 <img src="assets/portrait.svg" width="340" alt="Noshin Nawar, rendered as a dot matrix">
 <br>
 <a href="https://github.com/noshin-nawar5">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Noshin+Nawar;Software+%26+ML+Developer;Building+Things+That+Matter;01100011+01101111+01100100+01100101" alt="typing banner"<font color="#df61a0">>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=560&lines=Noshin+Nawar;Software+%26+ML+Developer;Building+Things+That+Matter;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 <br>
 

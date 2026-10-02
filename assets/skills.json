@@ -1,0 +1,14 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels based on academic projects, deployed work, and practical experience. Values are 0-100.",
+  "axes": [
+    { "label": "Python", "value": 82 },
+    { "label": "Machine Learning", "value": 76 },
+    { "label": "Computer Vision", "value": 75 },
+    { "label": "Web Development", "value": 72 },
+    { "label": "NLP", "value": 68 },
+    { "label": "Software Engineering", "value": 70 },
+    { "label": "Databases", "value": 65 },
+    { "label": "DSA", "value": 70 }
+  ]
+}

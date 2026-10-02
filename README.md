@@ -1,9 +1,5 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-  <img src="assets/portrait-dark.svg" width="300" alt="Noshin Nawar, rendered as a dot matrix">
-</picture>
+<img src="assets/portrait.svg" width="340" alt="Noshin Nawar, rendered as a dot matrix">
 <br>
 <a href="https://github.com/noshin-nawar5">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Noshin+Nawar;Software+%26+ML+Developer;Building+Things+That+Matter;01100011+01101111+01100100+01100101" alt="typing banner">

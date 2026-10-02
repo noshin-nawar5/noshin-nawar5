@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repositories shown in README order. Descriptions are customized for Noshin Nawar's projects.",
+  "projects": [
+    {
+      "repo": "Silent-Voices",
+      "description": "Real-time Bangla sign language recognition using a CNN-based computer vision model, supporting 47 gestures with an 82% recognition accuracy."
+    },
+    {
+      "repo": "CyberSense",
+      "description": "A deployed cyberbullying detection platform using NLP and machine learning, with an 85% classification accuracy and a Flask web interface."
+    },
+    {
+      "repo": "Retro-game-OS-simulation",
+      "description": "An interactive operating-system simulator built with Python and Pygame, demonstrating Round Robin scheduling, process states, and real-time memory visualization."
+    },
+    {
+      "repo": "MULTI_CLOUD_REPO_NAME",
+      "description": "A unified cloud storage system integrating Google Drive and Dropbox with JWT authentication, role-based access, REST APIs, MySQL, and Telegram bot integration."
+    }
+  ]
+}

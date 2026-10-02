@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="300" alt="Noshin Nawar, rendered as a dot matrix">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+  <img src="assets/portrait-dark.svg" width="300" alt="Noshin Nawar, rendered as a dot matrix">
+</picture>
 
 <br>
 
@@ -91,10 +95,6 @@ My projects have taken me across **machine learning, computer vision, NLP, web d
 
 ## `~/` contribution calendar
 
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake.svg">
@@ -114,14 +114,6 @@ My projects have taken me across **machine learning, computer vision, NLP, web d
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 

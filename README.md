@@ -197,6 +197,7 @@ I build across machine learning, software engineering, web development, and syst
 
 <sub>
 
+
 | project | description | stack |
 |---|---|---|
 | **Silent Voices** | Bangla sign-language recognition and translation system | `Python` `TensorFlow` `Keras` `CNN` |

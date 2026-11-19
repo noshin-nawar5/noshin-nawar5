@@ -1,9 +1,5 @@
 <div align="center">
-<img src="assets/portrait.svg" width="340" alt="Noshin Nawar, rendered as a dot matrix">
-<br>
-<a href="https://github.com/noshin-nawar5">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=560&lines=Noshin+Nawar;Software+%26+ML+Developer;Building+Things+That+Matter;01100011+01101111+01100100+01100101" alt="typing banner">
-</a>
+<img src="assets/nameplate.svg" width="720" alt="Noshin Nawar">
 <br>
 
 <a href="https://linkedin.com/in/noshin-nawar5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:noshinalavee5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://portfolio-flame-sigma-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>

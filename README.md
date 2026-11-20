@@ -14,12 +14,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/title-whoami.svg" alt="whoami">
-
-```console
-$ cat about.txt
-```
-
 Hi, I'm **Noshin Nawar**, a Computer Science & Engineering student at **North South University** who enjoys turning ideas into working software.
 
 My projects have taken me across **machine learning, computer vision, NLP, web development, and systems programming** — from recognizing Bangla sign language gestures to building an interactive operating-system simulator.
@@ -72,30 +66,12 @@ My projects have taken me across **machine learning, computer vision, NLP, web d
 
 <img src="assets/title-contribution-calendar.svg" alt="contribution calendar">
 
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake.svg">
   <img src="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-<div align="center">
-
-<img src="assets/title-the-numbers.svg" alt="the numbers">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
-<br>
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-<br><br>
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -155,7 +131,3 @@ I build across machine learning, software engineering, web development, and syst
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
-
-<div align="center">
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
-</div>

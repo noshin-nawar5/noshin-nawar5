@@ -64,9 +64,6 @@ My projects have taken me across **machine learning, computer vision, NLP, web d
 
 <div align="center">
 
-<img src="assets/title-contribution-calendar.svg" alt="contribution calendar">
-
-<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noshin-nawar5/noshin-nawar5/output/snake.svg">
